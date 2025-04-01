@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- Website template by duvvuri.com -->
 <html>
 <body>
