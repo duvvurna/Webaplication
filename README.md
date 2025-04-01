@@ -13,9 +13,9 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<i class="fa fa-linkedin" style="font-size:20px;color:red"></i>
 	</a></p>
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</h1>
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<body style="background-color:tomato;">
+<body style="background-color:white;">
 																
 <h4><b><u>Objective:</b></u></h4><p>With 15 years of ITIS/Dev/Maintance experience looking for a bright opportunity to prove my skills and
 abilities in a well-esteemed organization, which has global communication environment that offers good<br>
