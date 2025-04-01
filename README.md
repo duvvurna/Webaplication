@@ -17,7 +17,8 @@ ________________________________________________________________________________
 
 <body style="background-color:white;">
 																
-<h4><b><u>Objective:</b></u></h4><p>With 15 years of ITIS/Dev/Maintance experience looking for a bright opportunity to prove my skills and
+<h4><b><u> Objective: </b></u></h4>
+<p>With 15 years of ITIS/Dev/Maintance experience looking for a bright opportunity to prove my skills and
 abilities in a well-esteemed organization, which has global communication environment that offers good<br>
 opportunities for growth.</p>
 
