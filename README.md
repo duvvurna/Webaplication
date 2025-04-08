@@ -13,7 +13,8 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<i class="fa fa-linkedin" style="font-size:20px;color:red"></i>
 	</a></p>
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 <body style="background-color:white;">
 																
 <h4><b><u> Objective: </b></u></h4>
