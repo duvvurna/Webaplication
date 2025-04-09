@@ -22,7 +22,7 @@
 abilities in a well-esteemed organization, which has global communication environment that offers good<br>
 opportunities for growth.</p>
 
-<img align="right" src="C:\Users\natar\OneDrive\Desktop\HTML\Nataraj.JPG" alt="NATARAJ" widtd="250" height="200">
+<img align="right" src="root\Nataraj.JPG" alt="NATARAJ" widtd="250" height="200">
 
 
 <h4><b><u>PROFESSIONAL SUMMARY</b></u></h4>
